@@ -1,9 +1,9 @@
 # Healthcare Management System Backend
 
-A Django REST Framework backend for managing healthcare data, including patients, doctors, and their relationships.
+A Django REST Framework backend for managing healthcare data, including patients, doctors, and their relationships.<br><br>
 
 ## API Documentation
-> Link : https://documenter.getpostman.com/view/44498594/2sB2x5Frrk
+> Link : https://documenter.getpostman.com/view/44498594/2sB2x5Frrk<br><br>
 
 ## Features
 
@@ -12,7 +12,7 @@ A Django REST Framework backend for managing healthcare data, including patients
 - Doctor Management
 - Patient-Doctor Mapping
 - RESTful API Design
-- PostgreSQL Database
+- PostgreSQL Database<br><br>
 
 ## Setup Instructions
 
@@ -57,7 +57,7 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
-
+<br><br>
 
 
 ## API Endpoints
