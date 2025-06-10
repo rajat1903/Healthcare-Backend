@@ -55,12 +55,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## API Documentation
-
-Once the server is running, visit:
-- Swagger UI: http://localhost:8000/api/docs/
-- ReDoc: http://localhost:8000/api/redoc/
-
 ## API Endpoints
 
 ### Authentication
