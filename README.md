@@ -2,7 +2,7 @@
 
 A Django REST Framework backend for managing healthcare data, including patients, doctors, and their relationships.
 
-# API Documentation
+## API Documentation
 > Link : https://documenter.getpostman.com/view/44498594/2sB2x5Frrk
 
 ## Features
