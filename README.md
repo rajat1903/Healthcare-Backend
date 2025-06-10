@@ -84,4 +84,14 @@ python manage.py runserver
 - POST /api/mappings/ - Create mapping
 - GET /api/mappings/ - List mappings
 - GET /api/mappings/<patient_id>/ - Get patient's doctors
-- DELETE /api/mappings/<id>/ - Delete mapping 
+- DELETE /api/mappings/<id>/ - Delete mapping<br><br>
+
+## Images
+
+![image](https://github.com/user-attachments/assets/64325697-3860-45ff-b7bd-e2f3666ac9e5)
+
+![image](https://github.com/user-attachments/assets/c4d4edd7-65d4-4013-9dd0-314da703bb14)
+
+![image](https://github.com/user-attachments/assets/24f2801b-2420-428f-b503-85d3b0491489)
+
+
